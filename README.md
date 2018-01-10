@@ -30,5 +30,8 @@ Then start jupyter:
 
 `jupyter notebook`
 
-Or you can use the requirements.txt file to load into your virtual environment of choice.
+Or you can use the `requirements.txt` file to load into your virtual environment of choice.
 
+## Just looking?
+
+You can browse the analysis in this github repo by going into the `notebooks` folder and viewing each file there. That will load the Jupyter Notebook with their results. Be sure to check out [the series](https://apps.statesman.com/question-of-restraint/) and the [database of cases](http://apps.statesman.com/question-of-restraint/data/).
